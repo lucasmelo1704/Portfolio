@@ -20,7 +20,7 @@ html {
     height: 80px;
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     position: sticky;
     top: 0;
     z-index: 9;
@@ -30,7 +30,6 @@ html {
     display: flex;
     align-items: center;
     list-style: none;
-    margin-right: 28px;
 }
 
 .nav-list a {
